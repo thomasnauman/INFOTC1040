@@ -1,0 +1,7 @@
+This file contains the results of numbers added together
+Result: 
+7.0
+8.2
+9.0
+11.1
+1.0
